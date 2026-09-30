@@ -29,4 +29,4 @@ de manera selectiva. También se utilizó el modelo de caja y una
 media query para adaptar la página a pantallas pequeñas.
 
 Proyecto de GitHub:
-El enlace será agregado después de crear el repositorio.
+https://github.com/Andrey7-7-7/Laboratorio_4_1
